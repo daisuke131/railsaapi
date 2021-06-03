@@ -35,6 +35,7 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'faker'
   gem "active_model_serializers"
+  gem 'rexml'
 end
 
 group :development do
